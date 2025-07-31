@@ -1,7 +1,5 @@
 <div align="center">
-<a href="https://github.com/bdk-333">
-<img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" alt="Kirtankumar Parekh's GitHub Profile" width="150" height="150" style="border-radius: 50%;">
-</a>
+<a href="https://github.com/bdk-333"></a>
   
 # Hi, I'm Kirtankumar Parekh 👋, an ML enthusiast!
 </div>
