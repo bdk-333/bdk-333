@@ -26,7 +26,7 @@ Here's a peek into the technologies and skills I wield to bring data to life:
     - **Libraries for ML**: Scikit Learn and PyTorch
     - **Concepts**: Data Analysis and data wrangling, Data Structures & Algorithms, EDA
 
-3. 🗄️ **Databases**: MySQL, Oracle, Vector Databases (ChromaDB)
+3. 🗄️ **Databases**: MySQL, Oracle, SQLite, MongoDB, Vector Databases (ChromaDB)
 
 4. 🔧 **Frameworks & Specialized Tools**: Flask, Ollama, Streamlit, LangChain, PyMuPDF, Sentence-Transformers
 
