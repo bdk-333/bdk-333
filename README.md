@@ -10,7 +10,7 @@ I'm an International Data Science Student, interested in Data Science and AI, di
 
 My academic journey has provided me with a strong foundation in machine learning, data science principles, and efficient programming. I'm constantly seeking new challenges and opportunities to learn and improve.
 
-## 🧠 My Digital Toolbox & Superpowers
+## 🧠 My Digital Toolkit:
 
 Here's a peek into the technologies and skills I wield to bring data to life:
 
