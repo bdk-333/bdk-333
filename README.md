@@ -16,9 +16,8 @@ Here's a peek into the technologies and skills I wield to bring data to life:
 
 1. **Programming and Libraries**:
    - ***My Language Arsenal***
-      - Python: NumPy, Pandas, Matplotlib, Seaborn, Flask, Streamlit
-      -  Java
-      -  C/C++
+      - Primary language is Python: NumPy, Pandas, Matplotlib, Seaborn, Flask, Streamlit
+      - Familiar with: Java, C/C++
 
 2. ✨ **AI & Machine Learning Magic**: 
     - **Fundamentals**: Machine Learning, Deep Learning, AI Fundamentals
@@ -28,7 +27,7 @@ Here's a peek into the technologies and skills I wield to bring data to life:
 
 3. 🗄️ **Databases**: MySQL, Oracle, SQLite, MongoDB, Vector Databases (ChromaDB)
 
-4. 🔧 **Frameworks & Specialized Tools**: Flask, Ollama, Streamlit, LangChain, PyMuPDF, Sentence-Transformers
+4. 🔧 **Frameworks & Specialized Tools**: Flask, Ollama, Streamlit, Tableau, LangChain, PyMuPDF, Sentence-Transformers
 
 5. 📊 **Mathematics**: Calculus, Statistics, Probability, Linear Algebra
 
