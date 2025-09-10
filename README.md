@@ -23,7 +23,7 @@ Here's a peek into the technologies and skills I wield to bring data to life:
     - **Fundamentals**: Machine Learning, Deep Learning, AI Fundamentals
     - **Specialized**: Regression, Classification, NLP, LLMs, RAG, Chatbots, CNN, Computer Vision
     - **Libraries for ML**: Scikit Learn and PyTorch
-    - **Concepts**: Data Analysis and data wrangling, Data Structures & Algorithms, EDA
+    - **Concepts**: Data Analysis and data wrangling, Data Structures & Algorithms, EDA, Data Visualization
 
 3. 🗄️ **Databases**: MySQL, Oracle, SQLite, MongoDB, Vector Databases (ChromaDB)
 
