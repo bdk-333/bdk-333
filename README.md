@@ -6,7 +6,7 @@
 
 ## 🚀 About Me 
 
-I'm an International Data Science Student, interested in Data Science and AI, diving deep in Modern AI like LLMs and Transformers these days 😁. 
+I'm an International Data Science Student, interested in Data Science and AI, diving deep in NLP and Modern AI concepts like LLMs and Transformers these days 😁. 
 
 My academic journey has provided me with a strong foundation in machine learning, data science principles, and efficient programming. I'm constantly seeking new challenges and opportunities to learn and improve.
 
