@@ -7,13 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirtan-s-parekh)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirtansp333@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://bdk-333.github.io/Kirtan-Parekh-Portfolio/)
-![Profile Views](https://komarev.com/ghpvc/?username=bdk-333&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
 
 </div>
 
 ---
-
-<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 👨‍💻 &nbsp;About Me
 
@@ -21,9 +18,7 @@
 🤖 &nbsp;Diving Deep into **NLP, LLMs & Transformers** these days<br>
 🔭 &nbsp;Exploring **RAG Pipelines & AI Agents**<br>
 🧠 &nbsp;Building intelligent systems from raw data<br> 
-💬 &nbsp;Always up for AI/ML conversations!<br>
-📫 &nbsp;**kirtansp333@gmail.com**
-
+💬 &nbsp;Always up for AI/ML conversations!
 <br/><br/>
 
 ---
