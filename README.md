@@ -65,12 +65,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/b6740dc0-a44a-4262-95e2-8e630ebd7fba/thumbnail" >
-</p>
-
----
-
 <div align="center">
   <i>✨ "Data is the new oil — but insight is the refined fuel." ✨</i>
 </div>
